@@ -1,0 +1,6 @@
+# Автоматически сгенерированный .gitignore
+.git
+__pycache__
+*.pyc
+.env
+*.tmp

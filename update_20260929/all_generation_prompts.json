@@ -119,13 +119,15 @@
   },
   {
     "name": "case_as_val_v2",
-    "prompt": "Use case: stylized-concept. Asset type: ONE standalone inventory reward icon for Garry's Mod case opening UI. Create from scratch AS VAL black rifle with integral suppressor and folding stock, side view pointing right. Premium clean simplified realistic 3D game inventory illustration, clear subject-specific silhouette, crisp edges, restrained studio lighting. Entire object centered in square canvas, 15% even transparent padding, readable at 54 pixels. Vehicles front three-quarter view. Weapons entirely visible. Actual transparent background, no scene, no floor plane, no frame, no watermark, no caption, no readable letters or numbers.",
-    "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a0eed6-f20f-7253-8fef-e19b2226f0f3\\exec-2162fcd7-437d-48f5-8ca1-742720aa408b.png"
+    "prompt": "Use case: lighting-weather. Edit this newly generated game inventory rifle icon. Preserve exactly the weapon model, shape, orientation and full framing. Make it clearly readable on dark gray UI cards at 32 pixels: strong neutral silver studio fill across the dark metal surfaces, bright clean pale silver edge highlights, a slight cool rim light. Keep believable dark metal materials but raise midtones substantially. No glow cloud or background. Preserve the transparent background. No text, no frame, no extra objects.",
+    "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a0eed6-f20f-7253-8fef-e19b2226f0f3\\exec-149f6915-d488-461f-afcf-cbcf8784c78e.png",
+    "edit": true
   },
   {
     "name": "case_m416_v2",
-    "prompt": "Use case: stylized-concept. Asset type: ONE standalone inventory reward icon for Garry's Mod case opening UI. Create from scratch HK416 black tactical rifle with short top rail and retractable stock, side view pointing right. Premium clean simplified realistic 3D game inventory illustration, clear subject-specific silhouette, crisp edges, restrained studio lighting. Entire object centered in square canvas, 15% even transparent padding, readable at 54 pixels. Vehicles front three-quarter view. Weapons entirely visible. Actual transparent background, no scene, no floor plane, no frame, no watermark, no caption, no readable letters or numbers.",
-    "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a0eed6-f20f-7253-8fef-e19b2226f0f3\\exec-5913c306-473b-4f29-a275-d5e599dab222.png"
+    "prompt": "Use case: lighting-weather. Edit this newly generated game inventory rifle icon. Preserve exactly the weapon model, shape, orientation and full framing. Make it clearly readable on dark gray UI cards at 32 pixels: strong neutral silver studio fill across the dark metal surfaces, bright clean pale silver edge highlights, a slight cool rim light. Keep believable dark metal materials but raise midtones substantially. No glow cloud or background. Preserve the transparent background. No text, no frame, no extra objects.",
+    "path": "C:\\Users\\Admin\\.codex\\generated_images\\01a0eed6-f20f-7253-8fef-e19b2226f0f3\\exec-c0991901-e651-47aa-8eba-95a130dd08f0.png",
+    "edit": true
   },
   {
     "name": "case_vaz_2107_v2",

@@ -1,0 +1,13 @@
+{
+  "expected_pngs": 52,
+  "ready_pngs": 52,
+  "missing": [],
+  "checks": [
+    "Lua syntax",
+    "PNG decode and RGBA transparency",
+    "reward prices/chances/data unchanged",
+    "HTML preview at 800/1280/1920 widths"
+  ],
+  "in_game_tested": false,
+  "recorded_prompts": 52
+}

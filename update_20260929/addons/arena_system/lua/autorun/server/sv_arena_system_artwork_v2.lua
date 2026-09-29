@@ -1,0 +1,10 @@
+-- Generated UI artwork for client downloads.
+resource.AddFile("materials/arena/perks/v2/arena_jump_2_v2.png")
+resource.AddFile("materials/arena/perks/v2/arena_jump_3_v2.png")
+resource.AddFile("materials/arena/perks/v2/arena_blink_v2.png")
+resource.AddFile("materials/arena/perks/v2/arena_dash_v2.png")
+resource.AddFile("materials/arena/perks/v2/arena_quick_step_v2.png")
+resource.AddFile("materials/arena/perks/v2/arena_phase_v2.png")
+resource.AddFile("materials/arena/perks/v2/arena_overdrive_v2.png")
+resource.AddFile("materials/arena/perks/v2/arena_camo_v2.png")
+resource.AddFile("materials/arena/perks/v2/arena_mark_500_v2.png")

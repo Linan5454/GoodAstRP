@@ -1,0 +1,52 @@
+[
+  {
+    "id": "starter",
+    "name": "Начальный",
+    "filename": "case_cover_starter_v7.png"
+  },
+  {
+    "id": "automotive",
+    "name": "Автомобильный",
+    "filename": "case_cover_automotive_v7.png"
+  },
+  {
+    "id": "donate_currency",
+    "name": "Донат Валюта",
+    "filename": "case_cover_donate_currency_v7.png"
+  },
+  {
+    "id": "jackpot",
+    "name": "Джекпот",
+    "filename": "case_cover_jackpot_v7.png"
+  },
+  {
+    "id": "diversity",
+    "name": "Разнообразие",
+    "filename": "case_cover_diversity_v7.png"
+  },
+  {
+    "id": "contraband",
+    "name": "Контрабанда",
+    "filename": "case_cover_contraband_v7.png"
+  },
+  {
+    "id": "style",
+    "name": "Стиль",
+    "filename": "case_cover_style_v7.png"
+  },
+  {
+    "id": "estate",
+    "name": "Недвижимость",
+    "filename": "case_cover_estate_v7.png"
+  },
+  {
+    "id": "exclusive",
+    "name": "Эксклюзив",
+    "filename": "case_cover_exclusive_v7.png"
+  },
+  {
+    "id": "special_donate",
+    "name": "Спец донат",
+    "filename": "case_cover_special_donate_v7.png"
+  }
+]

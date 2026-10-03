@@ -1,2 +1,0 @@
-# GoodAstRP
-Loading screen goodast
